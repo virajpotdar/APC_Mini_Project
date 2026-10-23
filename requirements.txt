@@ -2,5 +2,3 @@ numpy
 pandas
 matplotlib
 nltk
-scikit-learn
-pygame
